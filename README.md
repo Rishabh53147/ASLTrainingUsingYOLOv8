@@ -5,5 +5,5 @@ A small project for practicing Deep Learning. Please note that this is in no way
 The dataset is sourced from https://universe.roboflow.com/david-lee-d0rhs/american-sign-language-letters
 
 # Packages used --
-Ultralytics
+Ultralytics<br>
 IPython.display
